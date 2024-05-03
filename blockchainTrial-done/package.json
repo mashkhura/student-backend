@@ -1,13 +1,13 @@
 {
-  "name": "weather_api",
+  "name": "student_Dapp",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "The student_Dapp",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
   },
-  "license": "MIT",
-  "author": "Lucian Duta",
+  "license": "UEL",
+  "author": "Mashkhura Suyunova",
   "scripts": {
     "start": "node dist/src/server.js",
     "dev": "nodemon dist/src/server.js",
